@@ -4,7 +4,7 @@ A sample React application: **noteApp-zustand**.
 This project uses **Zustand** for global state management, **React Router** for page navigation, and **React Hook Form** for form handling.  
 Styling is done with **TailwindCSS**.  
 
----
+
 
 ## Features
 
@@ -15,7 +15,7 @@ Styling is done with **TailwindCSS**.
 - Modern and fast styling using TailwindCSS
 - Unique IDs generated with UUID
 
----
+
 
 ## Technologies
 
@@ -28,4 +28,4 @@ Styling is done with **TailwindCSS**.
 - TailwindCSS (vite) `^4.1.13`
 - Vite (build tool)
 
----
+
