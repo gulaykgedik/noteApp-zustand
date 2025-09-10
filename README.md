@@ -28,4 +28,9 @@ Styling is done with **TailwindCSS**.
 - TailwindCSS (vite) `^4.1.13`
 - Vite (build tool)
 
+## Screenshots
+<img width="1056" height="862" alt="Ekran Resmi 2025-09-10 23 40 17" src="https://github.com/user-attachments/assets/ceb1c228-3cea-45f8-aaa1-6b13b0410255" />
+
+
+
 
